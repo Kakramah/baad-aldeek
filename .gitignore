@@ -1,0 +1,8 @@
+.DS_Store
+._*
+.env*
+*.bak
+node_modules/
+*.pem
+*.key
+images/_إيصال-*
